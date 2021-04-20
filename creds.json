@@ -1,0 +1,13 @@
+{
+    "type": "service_account",
+    "project_id": "egedermo",
+    "private_key_id": "d72d94b298578f55f37b25fcff24ade81b81ce24",
+    "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDZ+Sfc/s+iw6QG\nCMr0GFRHW0sTS/CvA3o9dPfIBlvbHqKlrj69YoL11i4/TOZDRtbPbSbm5v0HyI4F\nGYrSUZsn1v/JmKMODs1vXPTpO9IVZ/ls6rWQg/t5Q9f061x4ZQfSVh2Qt0hGYhgm\nzXuH+83sDXdjAeseIvP2PPOhV/qsUkupufeBTF0qia4MHSB2C6n1/ucSO5uYb6NG\neDqFlhaBo19huOr/zbyFpsznNxx2309jPUeD2kqhAeb1I0XwcbzgKJJyoiJaZqw9\n+cErkq1BB6CbTmBfyoNYtKesNeerpjWr9hawlqr6RS9WUDHRYXLlUulBUR0Ntqly\nBTAW+cZ1AgMBAAECggEAIdkoEJBdK/hXgzxgT9FrXP1XRjLXuEXA+MQuKhiasQcr\n2LCbO4uNrKFK4zeM1kus1d8sWFTsXAYPz8jsnsZfYqtnYyXZxDgWPMHhokpQ0FQq\nDnjQIxXruiQH6BeYb3W45jfLNYrQpWVcPMJR+Ybnrk1VCcHlgfOJkOZcKuTfn1yK\nrGwR2NxNhBIGJxOvuowcdd5QKggAj1NOCisnCuBUUs/f1DxTm+pwbng/sfoG22YX\nBDT91sRBtGraWPGITUdnHejIZdIfFsqFk7fOJqyVf7/WyENG4zMoCF8eEGMLJHyH\npR1u7qqVMEmfeDMFH88wWak19QcQ+QmlKqUMvLuG7QKBgQD81Yn53I2m28wOFM8U\n1l4v6p73C0/A4U+dtUZERWXOq9XRS3ZUZJ3SEHsnniHjiJ4C+Qn0gSZHpOhmXrD6\nFH5xQHADh0PFjsac2F8NsoqyD4zcS41XOkHX2udET26TxPZAx0zPNyeb6juME0Mn\nuHxp1+tvBK3gS6C6OWEoki1ySwKBgQDcs9678OjpkEfLWv9KbeaAnD8o/nChp/XN\niR2bPXZoNK6F6Kz/MY+laQDtwCwq7xYly3lHS2Xk7tqr7zh8CQj+d2Z+5+JaDkUd\nzfY3piPsfph2E+JcrHAQC/+WCVzcBn2+kV8yfiZj8CVqKkLczD2AKfdFjop8K7Hp\n+1VJDWgyPwKBgEXvi0riBwywn7EFcIKDCWqXq4EKT/U6XZtyGQ2pZI/WWD6ccQ7H\nBiClDmvXAei+UXbhDC/lyYDnzKEEcE+8e304JcPUFpr+81FPSHuxd0vpoT0OaPpH\n0w6yLmZm0l9ti/A/MK/gwcQO9om4ikribQeaAjWjRbVVNhBM7uMaDBghAoGAPS0G\nkmXmyccaf33Lwd/QwtmMkFpm8ghSlBRrxno09hGURr4GJf6g6KLAhSZ9l7EKHJPY\nHDEEH38t0fbPW2JNwetq18aC8Z9+/RH4K9i7oHQ+4owEdNe/gFMzF22k9cA+3rIB\nB0f8cDtCw7jPK9DZQ0tepUMrk9uwx0DJlSRIO5UCgYEA3fte+4pbcrna33euK/cW\nUViYtceBCGY+v+9SGSH3kdDKTZ4CSyS8/f7tYq8DpMm/dGLBI7b7S6n3spMuZHJh\ntULqnXK86Zj8BCx5T71HAsAvhc3/oTEY1XG46a4sh323SMI3j78IaX2wZ9LPNE0W\nwqoqbXjI0+IemJ3VjNkv0bE=\n-----END PRIVATE KEY-----\n",
+    "client_email": "egedermo@egedermo.iam.gserviceaccount.com",
+    "client_id": "116367262080497633993",
+    "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+    "token_uri": "https://oauth2.googleapis.com/token",
+    "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+    "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/egedermo%40egedermo.iam.gserviceaccount.com"
+  }
+  
